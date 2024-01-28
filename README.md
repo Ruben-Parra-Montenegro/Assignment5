@@ -59,4 +59,9 @@ The number decides the size of the matrix
     ]
 }
 
+
+## When running "run without debugging"
+
+it will pass the arguments through the Launch.json file
+
 DEPENDING ON IF THE ARGUMENT IS 1 OR 2 THE MATRIX3 WILL BE WRITTEN TO 1 OF THE 2 "matrix3.txt" FILES IN HERE.   
