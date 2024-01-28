@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            //  "args": [
+            //     "data/matrix1.txt",
+            //     "data/matrix2.txt"
+            // ],
+            "args": [
+                "4"
+            ],
+            "projectName": "Assignment5_f4b85c4d",
+            // Remove the "classpath" property
+        }
+    ]
+}
